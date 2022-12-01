@@ -1,8 +1,12 @@
 # Compiler-Project
 C++/Python
 
-C201228 Sanzida Hossain
 python compiler : https://www.youtube.com/watch?v=f1u3me4GYmw
+
+https://github.com/ProgrammingHero1/fantastic_IDE
+
+
+C201228 Sanzida Hossain
 
 C201216 Kanita Haider
 
